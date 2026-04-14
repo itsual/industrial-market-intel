@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Temp files
+/tmp/
+*.json.bak
+
+# API keys / secrets
+config.local.json
+.env.local
+secrets.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports (workspace artifacts, not source)
+briefings/
