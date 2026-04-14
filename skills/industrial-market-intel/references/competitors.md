@@ -10,12 +10,15 @@
 | EVOQUA Water Technologies (Xylem) | USA | Ion exchange, UV, MBR, ZLD | Post-merger integration with Xylem, India presence |
 | IDE Technologies | Israel | Desalination, ZLD, HERO | Large project wins, OARO pilots |
 | Pureflow / Pentair | USA | Residential to industrial RO, filtration | Industrial segment moves |
+| Nalco Water (Ecolab) | USA | Water treatment chemicals, cooling water, process water, ZLD | New chemical product launches, India contracts, digital water monitoring (3D TRASAR) |
+| Ecolab (Water Division) | USA | Industrial water treatment, food & beverage, healthcare water, sustainability programs | Sustainability reports, new service offerings, India market moves |
 
 ## Tier 2 — Regional / Specialty Players
 
 | Company | HQ | Key Segments | Monitor For |
 |---------|-----|-------------|-------------|
 | Ion Exchange (India) Ltd | India | Ion exchange, EPC, ZLD, chemicals | Quarterly results, new orders, product launches |
+| Nalco Water India Limited | India | Water treatment chemicals, cooling water, boiler water, process water | Tender wins, pricing changes, new product launches, key account movements |
 | VA Tech Wabag | India | EPC, MBR, ZLD, desalination | Order inflows, new technology partnerships |
 | Thermax Limited | India | ZLD, cooling water, ion exchange | Water segment growth, new product lines |
 | LANXESS (Ion Exchange) | Germany | Ion exchange resins (Lewatit) | Capacity expansions, new resin grades, India pricing |
